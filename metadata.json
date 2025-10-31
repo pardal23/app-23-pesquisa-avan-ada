@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Search Hub",
+  "description": "A sleek and modern web application that allows users to perform advanced searches across multiple search engines like Google, Bing, and DuckDuckGo from a single, beautifully designed interface.",
+  "requestFramePermissions": []
+}
